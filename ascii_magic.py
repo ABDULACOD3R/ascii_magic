@@ -12,7 +12,7 @@ s= '''
               Cdxkkkkc0o
 '''
 print(s)
-print("===================================")
+print("========image==to==text============")
 file=input("[ Path ] File ? >> ")
-print("===================================")
+print("==============zed==================")
 os.system("jp2a "+file)
